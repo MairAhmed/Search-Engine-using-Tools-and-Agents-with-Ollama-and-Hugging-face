@@ -23,9 +23,13 @@ pip install -r requirements.txt
 Requirements:
 
 streamlit
+
 langchain
+
 langchain_groq
+
 langchain_community
+
 python-dotenv
 
 
