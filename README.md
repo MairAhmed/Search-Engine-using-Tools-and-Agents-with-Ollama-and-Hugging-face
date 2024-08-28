@@ -1,3 +1,5 @@
+###Search Engine using Tools and Agents with Open Source LLMs
+
 This project demonstrates how to build an interactive chatbot using Streamlit and LangChain. The chatbot is equipped with tools to search the web, retrieve information from Arxiv and Wikipedia, and respond to user queries. This project uses the Llama3-8b-8192 model through the Groq API.
 
 Features:
