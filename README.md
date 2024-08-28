@@ -15,7 +15,8 @@ Interactive Chat: Engage with the chatbot in real-time, with responses displayed
 Requirements
 Before running the app, ensure you have all the necessary dependencies installed. You can install them using the requirements.txt file provided.
 
-bash
+bash:
+
 pip install -r requirements.txt
 
 
