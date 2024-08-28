@@ -1,0 +1,2 @@
+# Search-Engine-using-Tools-and-Agents-with-Ollama-and-Hugging-face
+This code sets up a Streamlit app that allows users to chat with an AI agent powered by LangChain. The agent can search the web, retrieve information from Arxiv and Wikipedia, and provide responses based on the user's input. The app features a sidebar for entering a Groq API key and displays the chat history between the user and the AI agent.
