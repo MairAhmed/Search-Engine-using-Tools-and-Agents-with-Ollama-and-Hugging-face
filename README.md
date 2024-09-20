@@ -17,20 +17,20 @@ Before running the app, ensure you have all the necessary dependencies installed
 
 bash:
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 
 Requirements:
 
-streamlit
+    streamlit
 
-langchain
+    langchain
 
-langchain_groq
+    langchain_groq
 
-langchain_community
+    langchain_community
 
-python-dotenv
+    python-dotenv
 
 
 Usage:
